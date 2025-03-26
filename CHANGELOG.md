@@ -1,0 +1,23 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.1.0] - 2024-03-26
+
+### Added
+- Initial release
+- Core agent implementation
+- Basic tool classes:
+  - File operations
+  - Web operations
+  - GitHub operations
+  - Code operations
+  - System operations
+- FastAPI backend setup
+- React frontend setup
+- CI/CD pipeline with GitHub Actions
+- Comprehensive test suite
+- Development tools configuration
