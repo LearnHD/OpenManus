@@ -2,6 +2,8 @@
 
 An open-source framework for building general AI agents
 
+[![codecov](https://codecov.io/gh/LearnHD/OpenManus/branch/main/graph/badge.svg)](https://codecov.io/gh/LearnHD/OpenManus)
+
 ## Features
 
 - Modular architecture for easy extension
@@ -9,6 +11,7 @@ An open-source framework for building general AI agents
 - FastAPI backend with React frontend
 - Comprehensive test suite
 - CI/CD pipeline with GitHub Actions
+- Code coverage tracking with Codecov
 
 ## Installation
 
